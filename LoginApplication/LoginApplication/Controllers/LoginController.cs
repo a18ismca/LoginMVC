@@ -9,7 +9,7 @@ namespace LoginApplication.Controllers
 {
     public class LoginController : Controller
     {
-        // GET: Login AND its view
+        // GET: Login AND its view baby
         public ActionResult LoginView()
         {
             var account = new Login() { Name = "Govno", Id = 100 };
